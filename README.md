@@ -1,7 +1,7 @@
 <div align="center">
   <h1>☕ Coffee Shop Website</h1>
   <p>Modern, responsive cafe website with menu, contact form, and interactive UI 🍰</p>
-  <a href="https://honestdev125.github.io/Coffee-Shop/">
+  <a href="https://alpinist-dev.github.io/Coffee-Shop/">
     <img src="https://img.shields.io/badge/View_Live_Project-795548?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
@@ -80,7 +80,7 @@ Perfect for practicing **React**, **Next.js**, **TypeScript**, and **Tailwind CS
 
 ## 👨‍💻 Author
 
-**Developed by:** [Niku Namada](https://github.com/honestdev125)  
+**Developed by:** [Alpinist](https://github.com/alpinist-dev)  
 💬 Front-End Developer | Passionate about interactive UI and modern web design  
 
 ---
